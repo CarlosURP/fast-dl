@@ -1,0 +1,26 @@
+"models/w_suit.mdl"	"models/sence/mistake_coop/w_suit.mdl"
+
+"models/shell_357.mdl" "models/sence/mistake_coop/weapons/mp5_shell.mdl"
+"models/rpgrocket.mdl"	"models/sence/mistake_coop/weapons/rpgrocket.mdl"
+"models/shell_762.mdl" 	"models/sence/mistake_coop/weapons/rpk_shell.mdl"
+"models/shell.mdl"	"models/sence/mistake_coop/weapons/shell.mdl"
+"models/saw_shell.mdl"	"models/sence/mistake_coop/weapons/val_shell.mdl"
+"models/shotgunshell.mdl"	"models/sence/mistake_coop/weapons/spas12_shell.mdl"
+"models/w_shotbox.mdl"	"models/sence/mistake_coop/weapons/w_spas12_ammo.mdl"
+
+"models/p_crowbar.mdl"	"models/sence/mistake_coop/weapons/p_crowbar.mdl"
+"models/v_crowbar.mdl"	"models/sence/mistake_coop/weapons/v_crowbar.mdl"
+"models/w_crowbar.mdl"	"models/sence/mistake_coop/weapons/w_crowbar.mdl"
+
+"models/bullsquid.mdl"	"models/sence/mistake_coop/bullsquid.mdl"
+"models/headcrab.mdl"	"models/sence/mistake_coop/headcrab.mdl"
+
+"sprites/muzzleflash1.spr"	"sprites/sence/mistake_coop/muzzleflash1.spr"
+
+"models/v_shotgun.mdl"	"models/sence/mistake_coop/weapons/v_spas12.mdl"
+"models/w_shotgun.mdl"	"models/sence/mistake_coop/weapons/w_spas12.mdl"
+"models/p_shotgun.mdl"	"models/sence/mistake_coop/weapons/p_spas12.mdl"
+
+"models/v_9mmhandgun.mdl" "models/sence/mistake_coop/weapons/v_aps.mdl"
+"models/w_9mmhandgun.mdl" "models/sence/mistake_coop/weapons/w_aps.mdl"
+"models/p_9mmhandgun.mdl" "models/sence/mistake_coop/weapons/p_aps.mdl"
