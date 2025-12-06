@@ -1,0 +1,272 @@
+SvenCo-op Classic Map Pack
+Originally Released 13/03/02
+Updated 24/12/03
+Sven Co-op Site URL: http://www.svencoop.com/
+
+Includes:
+
+
+The AssaultMesa2 Series
+BlackOps
+Durga
+G-man Towers
+GargHunt3
+Infiltrate
+The JailBreak Series
+MegaMonsterMassacre
+The Nightmare Co-op Series
+The SvenCo-op RPG series
+
+The Operation Retribution map series (parts 1-7)
+The Co-op Gut Reaction map series
+GruntWar
+SpaceViking
+Powernode series
+Phobia
+Bunker
+Grunts
+Horde
+War series
+Undeath
+Exhale series
+Helebat3
+
+Please check the corresponding text files in the Maps\ directory 
+for full information/credits.
+
+---------------------------------------------------------------
+To run these maps on your server, add the following text into
+your SvenCoop\mapcycle.txt file:
+
+gmantowers
+durga
+infiltrate
+blackops
+assaultmesa2
+garghnt3
+jailbreak
+megamonstermassacre
+nightmare-c1
+svencooprpg
+gruntwar
+opr1a1
+gut_reaction
+sc_spaceviking1
+powernode1
+phobia
+bunker
+grunts
+horde
+war
+undeath
+exhale1platinum
+helebat3
+
+---------------------------------------------------------------
+
+To allow players to change to these maps via a vote, add the 
+following text into your SvenCoop\mapvote.cfg file:
+
+addvotemap gmantowers
+addvotemap durga
+addvotemap infiltrate
+addvotemap blackops
+addvotemap assaultmesa2
+addvotemap garghnt3
+addvotemap jailbreak
+addvotemap megamonstermassacre
+addvotemap nightmare-c1
+addvotemap svencooprpg
+addvotemap gruntwar
+addvotemap opr1a1
+addvotemap gut_reaction
+addvotemap sc_spaceviking1
+addvotemap powernode1
+addvotemap phobia
+addvotemap bunker
+addvotemap grunts
+addvotemap horde
+addvotemap war
+addvotemap undeath
+addvotemap exhale1platinum
+addvotemap helebat3
+
+---------------------------------------------------------------
+
+Complete listing of files contained in this archive:
+
+SvenCoop\maps\assaultmesa2.bsp
+SvenCoop\maps\assaultmesa2.cfg
+SvenCoop\maps\assaultmesa2_motd.txt
+SvenCoop\maps\assaultmesa2-2.bsp
+SvenCoop\maps\assaultmesa2-2.cfg
+SvenCoop\maps\assaultmesa2-2_motd.txt
+SvenCoop\maps\assaultmesa2-2_skl.cfg
+SvenCoop\maps\blackops.bsp
+SvenCoop\maps\blackops.cfg
+SvenCoop\maps\durga.bsp
+SvenCoop\maps\durga.cfg
+SvenCoop\maps\garghnt3.bsp
+SvenCoop\maps\garghnt3.cfg
+SvenCoop\maps\gmantowers.bsp
+SvenCoop\maps\gmantowers.cfg
+SvenCoop\maps\gmantowers_motd.txt
+SvenCoop\maps\gmantowers_readme.txt
+SvenCoop\maps\infiltrate.bsp
+SvenCoop\maps\infiltrate.cfg
+SvenCoop\maps\infiltrate_motd.txt
+SvenCoop\maps\infiltrate_readme.txt
+SvenCoop\maps\jailbreak.bsp
+SvenCoop\maps\jailbreak.cfg
+SvenCoop\maps\jailbreak.txt
+SvenCoop\maps\jailbreak2.bsp
+SvenCoop\maps\jailbreak2.cfg
+SvenCoop\maps\JailBreak2.txt
+SvenCoop\maps\megamonstermassacre.bsp
+SvenCoop\maps\megamonstermassacre.cfg
+SvenCoop\maps\megamonstermassacre.skl
+SvenCoop\maps\megamonstermassacre.txt
+SvenCoop\maps\megamonstermassacre_motd.txt
+SvenCoop\maps\megamonstermassacre_skl.cfg
+SvenCoop\maps\Nightmare.txt
+SvenCoop\maps\nightmare-c1.bsp
+SvenCoop\maps\nightmare-c1.cfg
+SvenCoop\maps\nightmare-c2.bsp
+SvenCoop\maps\nightmare-c2.cfg
+SvenCoop\maps\svencooprpg.bsp
+SvenCoop\maps\svencooprpg.cfg
+SvenCoop\maps\svencooprpg.txt
+SvenCoop\maps\svencooprpg_motd.txt
+SvenCoop\maps\svencooprpg2.bsp
+SvenCoop\maps\svencooprpg2.cfg
+SvenCoop\maps\svencooprpg2.txt
+SvenCoop\maps\svencooprpg2_motd.txt
+SvenCoop\maps\svencooprpg2_skl.cfg
+SvenCoop\maps\svencooprpg3.bsp
+SvenCoop\maps\svencooprpg3.cfg
+SvenCoop\maps\svencooprpg3_motd.txt
+SvenCoop\maps\svencooprpg3_skl.cfg
+SvenCoop\sound\gmantowers
+SvenCoop\sound\infiltrate
+SvenCoop\sound\svencooprpg2
+SvenCoop\sound\gmantowers\locksmith.wav
+SvenCoop\sound\gmantowers\pilot.wav
+SvenCoop\sound\gmantowers\radio.wav
+SvenCoop\sound\gmantowers\satchel1.wav
+SvenCoop\sound\gmantowers\satchel2.wav
+SvenCoop\sound\gmantowers\torch_cut_loop.wav
+SvenCoop\sound\gmantowers\torch_light.wav
+SvenCoop\sound\infiltrate\grunts.wav
+SvenCoop\sound\infiltrate\look.wav
+SvenCoop\sound\infiltrate\recon.wav
+SvenCoop\sound\svencooprpg2\grylion.wav
+
+SvenCoop\Reaction.txt
+SvenCoop\maps\opr1a2.bsp
+SvenCoop\maps\opr1a2.cfg
+SvenCoop\maps\opr1a3.bsp
+SvenCoop\maps\opr1a3.cfg
+SvenCoop\maps\opr1a4.bsp
+SvenCoop\maps\opr1a4.cfg
+SvenCoop\maps\opr1a5.bsp
+SvenCoop\maps\opr1a5.cfg
+SvenCoop\maps\opr1a6.bsp
+SvenCoop\maps\opr1a6.cfg
+SvenCoop\maps\opr1a7.bsp
+SvenCoop\maps\opr1a7.cfg
+SvenCoop\maps\opr1a8.bsp
+SvenCoop\maps\opr1a8.cfg
+SvenCoop\maps\opr1a8.txt
+SvenCoop\maps\reactors.bsp
+SvenCoop\maps\reactors.cfg
+SvenCoop\maps\sc_spaceviking1.bsp
+SvenCoop\maps\sc_spaceviking1.txt
+SvenCoop\maps\security.bsp
+SvenCoop\maps\security.cfg
+SvenCoop\maps\tunnel3.bsp
+SvenCoop\maps\tunnel3.cfg
+SvenCoop\maps\graphs\coremain.nod
+SvenCoop\maps\graphs\coremain.nrp
+SvenCoop\maps\graphs\corentry.nod
+SvenCoop\maps\graphs\corentry.nrp
+SvenCoop\maps\graphs\drainage.nod
+SvenCoop\maps\graphs\drainage.nrp
+SvenCoop\maps\graphs\finale.nod
+SvenCoop\maps\graphs\finale.nrp
+SvenCoop\maps\graphs\generate.nod
+SvenCoop\maps\graphs\generate.nrp
+SvenCoop\maps\graphs\lab.nod
+SvenCoop\maps\graphs\lab.nrp
+SvenCoop\maps\graphs\reactors.nod
+SvenCoop\maps\graphs\reactors.nrp
+SvenCoop\maps\graphs\security.nod
+SvenCoop\maps\graphs\security.nrp
+SvenCoop\maps\graphs\tunnel3.nod
+SvenCoop\maps\graphs\tunnel3.nrp
+SvenCoop\models\Player
+SvenCoop\models\Player\Dust1
+SvenCoop\models\Player\Urban1
+SvenCoop\models\Player\Dust1\Dust1.bmp
+SvenCoop\models\Player\Dust1\Dust1.mdl
+SvenCoop\models\Player\Urban1\Urban1.bmp
+SvenCoop\models\Player\Urban1\Urban1.mdl
+SvenCoop\sprites\rain.spr
+SvenCoop\MapPack_Classic.txt
+SvenCoop\storage.wad
+SvenCoop\maps\exhale1.bsp
+SvenCoop\maps\exhale1.cfg
+SvenCoop\maps\exhale1platinum.bsp
+SvenCoop\maps\exhale1platinum.cfg
+SvenCoop\maps\exhale2platinum.bsp
+SvenCoop\maps\exhale3platinum.bsp
+SvenCoop\maps\exhale4a.bsp
+SvenCoop\maps\exhale4b.bsp
+SvenCoop\maps\exhale5a.bsp
+SvenCoop\maps\exhale5b.bsp
+SvenCoop\maps\exhale6.bsp
+SvenCoop\maps\ExhaleReadme.txt
+SvenCoop\maps\graphs
+SvenCoop\maps\grunts.bsp
+SvenCoop\maps\grunts.cfg
+SvenCoop\maps\Grunts.txt
+SvenCoop\maps\helebat3.bsp
+SvenCoop\maps\helebat3.cfg
+SvenCoop\maps\helebat3.txt
+SvenCoop\maps\horde.bsp
+SvenCoop\maps\horde.cfg
+SvenCoop\maps\HORDE.TXT
+SvenCoop\maps\phobia.bsp
+SvenCoop\maps\phobia.cfg
+SvenCoop\maps\phobia.txt
+SvenCoop\maps\powernode.txt
+SvenCoop\maps\powernode1.bsp
+SvenCoop\maps\powernode1.cfg
+SvenCoop\maps\powernode2.bsp
+SvenCoop\maps\powernode2.cfg
+SvenCoop\maps\powernode3.bsp
+SvenCoop\maps\powernode3.cfg
+SvenCoop\maps\undeath.bsp
+SvenCoop\maps\undeath.cfg
+SvenCoop\maps\undeath.txt
+SvenCoop\maps\war.bsp
+SvenCoop\maps\war.cfg
+SvenCoop\maps\WAR.txt
+SvenCoop\maps\war2.bsp
+SvenCoop\maps\war2.cfg
+SvenCoop\maps\WAR2.txt
+SvenCoop\maps\war3.bsp
+SvenCoop\maps\war3.cfg
+SvenCoop\maps\WAR3.txt
+SvenCoop\maps\graphs\undeath.nod
+SvenCoop\maps\graphs\undeath.nrp
+
+---------------------------------------------------------------
+
+
+Legal Stuff:
+
+All maps are considered the property of their creators. 
+Sven Co-op has been authorised to use these maps with regards 
+to including them with, or distributing them for use with, 
+SvenCo-op. Any other distribution is prohibited without direct 
+authorisation from the map author.

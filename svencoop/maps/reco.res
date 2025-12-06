@@ -10,7 +10,7 @@ models/reco/furnature/vat_charlie.mdl
 models/reco/girl1.mdl
 models/reco/gonome.mdl
 models/reco/gorger.mdl
-models/reco/gorgert.mdl
+models/reco/gorgerT.mdl
 models/reco/hunter.mdl
 models/reco/imodels/allied_ammo.mdl
 models/reco/imodels/brownshield.mdl
@@ -23,7 +23,7 @@ models/reco/imodels/w_security.mdl
 models/reco/imodels/xen_folder2.mdl
 models/reco/licker.mdl
 models/reco/neptune.mdl
-models/reco/neptunet.mdl
+models/reco/neptuneT.mdl
 models/reco/reaver.mdl
 models/reco/sci.mdl
 models/reco/security.mdl
