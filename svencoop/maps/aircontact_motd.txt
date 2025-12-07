@@ -1,0 +1,10 @@
+  
+                * Aerial Contact*
+
+             A SvenCo-op map by Hezus
+
+This map is dedicated to the classic Helebattle map by Mad Jonesy.
+Aerial Contact has the same concept, but is architecturally updated and has a few game play fixes and changes.
+
+Objective:
+* Destroy all 5 incoming Choppers

@@ -1,0 +1,13 @@
+Objectives:
+
+* Secure insertion area.
+* Locate Loading Dock.
+* Shut down electric fence.
+* Open blast doors.
+* Access subterranean levels.
+* Connect sattelite link.
+
+ The military in this area seem to be transporting aliens. Suggest extreme caution around crates. Current containment methods are ineffective on alien cargo and aliens may attempt to escape if they detect human presences.
+ Base security is currently on full alert. They may be attempting to contain a break in. Look out for deserting soldiers. They will provide covering fire for you but will be treated as hostile by their ex-comrades.
+ We need you to establish a link with our communications sattelite so we can download the data files on current experiments. Treat scientists with caution, you will require their assisstance to access some areas.
+ We have little information on the inside of the base but assume you can use a personel lift to access other areas. Be prepared to adjust on site in case the situation changes.
