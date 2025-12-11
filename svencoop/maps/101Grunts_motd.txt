@@ -1,0 +1,7 @@
+Title		:	101 Grunts
+Filename	:	101Grunt.zip
+Author		:	Jonathan L Gower
+Email		:	jon@jlgower.freeserve.co.uk
+Date Released	:	25th September 1999
+Description	:	3 map single player mission for HalfLife
+Previous Levels	:	None
