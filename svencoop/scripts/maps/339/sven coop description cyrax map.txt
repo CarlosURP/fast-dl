@@ -1,0 +1,57 @@
+
+|| **Author** || [[[mapper:Dr. Varhansen]]] ||
+|| **Date of release** || VERSION AND DATE. Example: **Final** - 11/30/2025 ||
+|| **.bsp filename** || FILENAME (exclude the ".bsp") ||
+
+
+[!--- DOWNLOAD BUTTON ---]
+[!--- insert a comma-separated list of download mirrors ---]
+[!--- SCMapDB can host your files! Click the "upload files" button after saving this page ---]
+
+[[include DL]]
+[*http://www.example.com/files/mapname.zip Example]
+[[include DL-end]]
+
+
+[!--- MAIN BODY OF PAGE ---]
+
+++ Description
+ A descent into the chaotic world of Chance "Cyraxx" Wilkins — a "man" living with his grandmother, whose house has become a maze of paranoia, decay, and fractured reality. What begins as a simple break-in spirals into a twisted journey through a collapsing home filled with hostile echoes, deranged mutations of Cyraxx himself, and the remnants of a mind split by obsession.
+ Prank your way into Cyraxx's Attic as the environment shifts between grimy realism and nightmarish distortion.
+Survive the house. Confront the nightmare in the attic. Escape the Den of Delusion… if the house lets you.
+ 
+ -Collaborate with "Music Biz" Marty to take down the Plague at 339 Lloyd Street!
+ -Communicate with Cyraxx via Laptop Transmissions to see what he's up to...
+ -But beware, what REALLY lies in the attic above...?
+
+*Based on True Stories*
+
+
+[!--- any extra info about the map ---]
+
+++ Additional info
+Pardon large file size, mostly coming from the .wav files & custom models.
+
+
+[!--- anyone else who helped with the map: ---]
+
++++ Additional credits
+-Chimz76 for custom models of people.
+-Sidewinder for weapons scripting.
+-Music Biz Marty for funding
+
++++ Changelog
+Updates to come.
+
+[!--- uncomment this to use a changelog (list of changes made in each map version)
+
+[[include changelog version=v2]]
+
+
+
+[[include changelog-end]]
+
+---]
+
+
+[!--- Thanks for improving SCMapDB! ---]

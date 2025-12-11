@@ -1,0 +1,14 @@
+ALERT cyrax/alexbigt/yourepedo.wav
+ATTACK cyrax/alexbigt/dropyou.wav
+ATTACK_HIT cyrax/alexbigt/knockout.wav
+ATTACK_MISS zombie_soldier/attack_miss1.wav
+PAIN cyrax/alexbigt/helpme.wav
+PAIN cyrax/alexbigt/friend.wav
+STEP zombie_soldier/step1.wav
+STEP zombie_soldier/step2.wav
+STEP zombie_soldier/step3.wav
+SIGHT PAIN cyrax/alexbigt/handsonme.wav
+HEADCRAB_ATTACK zombie_soldier/headcrab_attack.wav
+HEADCRAB_DIE zombie_soldier/headcrab_die.wav
+HEADCRAB_IDLE zombie_soldier/headcrab_idle.wav
+HEADCRAB_ALERT zombie_soldier/headcrab_alert.wav

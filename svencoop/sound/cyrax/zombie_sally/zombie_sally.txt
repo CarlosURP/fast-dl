@@ -1,0 +1,6 @@
+// monster_zombie sound replacement file
+ALERT zombie/zo_alert1.wav
+ATTACK zombie_sally/attack1.wav
+IDLE zombie_sally/idle1.wav
+PAIN zombie_sally/pain1.wav
+DIE zombie_sally/death1.wav

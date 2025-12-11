@@ -1,0 +1,4 @@
+4
+weapon				640		cyrax/640hud1_pencil		0	0	170	45
+weapon_s			640		cyrax/640hud4_pencil		0	0	170	45
+

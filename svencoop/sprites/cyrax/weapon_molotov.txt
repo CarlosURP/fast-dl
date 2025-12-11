@@ -1,0 +1,4 @@
+3
+weapon      640     cyrax/640hud3_molotov    0 0 170 45
+weapon_s    640     cyrax/640hud6_molotov    0 0 170 45
+ammo        640     640hud7                  48 84 24 24
