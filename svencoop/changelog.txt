@@ -1,0 +1,62 @@
+
+– v1.0
+21/5/2023
+Initial release
+maps merged: reduced from 39 maps to 11.
+
+– v1.1
+22/5/2023
+redempt.wad renamed to rede.wad to avoid conflicts between darkgunner port and mine.
+removed some unused files.
+adjusted fire sprites so they look like they do in the original mod.
+rede6: minor adjustment on the truck part.
+
+– v1.2
+28/5/2023
+removed more unused files.
+now you keep non default weapons across maps.
+added grenades as a default weapon. Removed crossbow.
+added custom leech model.
+rede2: fixed missing custom models on dead grunts. Fixed missing text on the sat part.
+rede6: modified the truck part at map start because i felt the entities system was unreliable. modified the warehouse elevator area, now you have to go all the way around using the stairs and not jumping over the boxes. Renamed to rede6_1.
+rede7: modified the npc spawning order for better efficiency.
+rede8: added an rpg to make it easier to destroy the apache. Simplified env_beam entities due to performance issues.
+rede_db1: modified the scan laser doors to make them more user friendly. Fixed dying barney failing to play his almost dead animation sometimes.
+rede_db2: added some missing sounds. Added extra info_nodes to keep barney from being stuck on certain circunstances.
+due to a bug in trigger_changesky entities some maps will be divided as a temporary solution: rede1_a,rede2_a,rede2_b,rede6_1_a,rede8_a added. Hopefully this bug will be fixed in SC 5.26 and this change will be reverted.
+
+– v1.3
+4/6/2023
+fixed some objets disappearing randomly.
+rede1: fixed barney opening door before the right time. Fixed barney being distracted with nearby attacks breaking scripted_sequences and the map.
+rede2_a: fixed players been seen on screen.
+rede3: fixed monsters disappearing.
+rede4: fixed telefrag in alien ship area.
+rede5: Blocked the area skipping with the electrical wires. Adjusted garg vs roy/telnorp area to avoid unnecessary delays.
+rede7: fixed repel grunts without custom models.
+rede8: fixed hideout door closing up before respawning all, leading to a soft lock if you have bad luck. Fixed telnorps moving and shooting beams in a wrong way.
+rede_db1: fixed env_beams causing low performance issues.
+
+- v1.4
+21/8/2023
+severed Drug Barons campaign from this pack.
+added basic save/load system. (disabled by dafault)
+added changelevel sprites. (disabled by dafault)
+added sven contra2 changelevel script to replace broken trigger_changesky.
+maps merged again: reduced to 9 maps.
+rede1: fixed suit not being picked up in the cascade area.
+rede7: fixed sentries not auto starting.
+
+- v1.5
+12/3/2024
+fixed human grunts displaying a wrong weapon
+adjusted some music and sounds.
+replaced trigger_cdaudio and target_cdaudio with ambient_music.
+
+- v1.5.1
+5/4/2025
+scripts update.
+
+- v1.5.2
+23/8/2025
+scripts update.

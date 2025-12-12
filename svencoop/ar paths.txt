@@ -1,0 +1,74 @@
+Absolute redemption paths
+
+	redintro	|rede0
+	   |		|-----
+	rede1m1		|
+	   |		|
+	rede1m2		|rede1
+	   |		|
+	rede1m3		|
+	   |		|-----
+	rede1m4		|
+	   |		|
+	rede1m5		|
+	   |		|
+	rede1m6		|rede2
+	   |		|
+	rede2m1		|
+	   |		|
+	rede2m1a	|
+	   |		|-----
+	rede2m2		|
+	|     |		|
+   rede2m2a rede2m2a 	|
+	|     |		|rede3
+	rede2m3		|
+	   |		|
+	rede2m3a	|
+	   |		|-----
+	rede2m3b	|
+	   |		|
+	rede2m4		|rede4
+	   |		|
+	rede2m4a	|
+	   |		|-----
+	rede2m5		|
+	|     |		|
+   rede2m5a rede2m5a	|
+	|     |		|rede5
+	rede2m6		|
+	   |		|
+	rede2m6a	|
+	   |		|-----
+	rede3m1		|
+	   |		|
+	rede3m2		|
+	|     |		|rede6
+   rede3m3  rede3m3	|
+	|     |		|
+	rede3m4		|
+	   |		|-----
+    ----rede3m5----	|
+    |      |	  |	|
+rede3m5a   |   rede3m5b |rede7 multiple paths: 
+           |      |	|rede3m5  to rede3m5a: 2 paths
+	   rede3m5c	|rede3m5  to rede3m5b: 2 paths
+             |		|rede3m5b to rede3m5c: 3 paths
+        rede3m6		|rede3m5c to rede3m6 : 2 paths
+           |       	|-----
+	rede3m6a	|
+	   |		|
+	rede3m6		|
+	   |		|		
+	rede3m7		|
+	   |		|
+	rede4m1		|rede8
+	   |		|
+	rede4m1a	|
+	   |		|
+	rede4m2		|
+	   |		|
+	rede4m3		|
+	   |		|
+	rede4m2		|
+	   		|
