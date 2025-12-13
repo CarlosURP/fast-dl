@@ -1,0 +1,19 @@
+"weapons/pl_gun3.wav" "hunger/weapons/colt/colt_fire1.wav"
+"barney/ba_attack2.wav" "hunger/weapons/colt/colt_fire1.wav"
+
+"weapons/m16_3round.wav" "amckern/avp10-guns/sentry/fire2.wav"
+"hgrunt/gr_mgun1.wav" "amckern/avp10-guns/sentry/fire2.wav"
+
+"weapons/357_shot1.wav" "weapons/trigun/deagle-1.wav"
+"otis/ot_attack.wav" "weapons/trigun/deagle-1.wav"
+
+"weapons/hks1.wav" "weapons/oicw/aug-1.wav"
+"weapons/hks2.wav" "weapons/oicw/aug-1.wav"
+"weapons/hks3.wav" "weapons/oicw/aug-1.wav"
+"hgrunt/gr_mgun2.wav" "weapons/oicw/aug-1.wav"
+
+"debris/bustcrate1.wav" "amckern/break_wood_box_01.wav"
+"debris/bustcrate2.wav" "amckern/break_wood_box_01.wav"
+"debris/bustcrate3.wav" "amckern/break_wood_box_01.wav"
+
+"weapons/mortar.wav" "amckern/newsounds/predator/predator_shoot.ogg"

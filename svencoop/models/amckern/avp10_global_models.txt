@@ -1,0 +1,29 @@
+"models/p_9mmar.mdl" "models/amckern/avp10-guns/oicw/p_9mmar.mdl"
+"models/v_9mmar.mdl" "models/amckern/avp10-guns/oicw/v_9mmar.mdl"
+"models/w_9mmar.mdl" "models/amckern/avp10-guns/oicw/w_9mmar.mdl"
+
+"models/w_mp5_clip.mdl" "models/w_9mmarclip.mdl"
+"models/shell.mdl" "models/amckern/newguns/shell.mdl"
+
+"models/w_9mmhandgun.mdl" "models/amckern/avp10-guns/pistol/w_9mmhandgun.mdl"
+"models/v_9mmhandgun.mdl" "models/amckern/avp10-guns/pistol/v_9mmhandgun.mdl"
+"models/p_9mmhandgun.mdl" "models/amckern/avp10-guns/pistol/p_9mmhandgun.mdl"
+
+"models/p_357.mdl" "models/amckern/p_357.mdl"
+"models/v_357.mdl" "models/amckern/v_357.mdl"
+"models/w_357.mdl" "models/amckern/w_357.mdl"
+
+"models/p_m16.mdl" "models/amckern/newguns/p_m16.mdl"
+"models/v_m16a2.mdl" "models/amckern/newguns/v_m16a2.mdl"
+"models/w_m16.mdl" "models/amckern/newguns/w_m16.mdl"
+
+"models/w_9mmarclip.mdl" "models/amckern/newguns/w_m16_ammo.mdl"
+
+"models/pit_drone.mdl" "models/amckern/alien.mdl"
+"models/zombie.mdl" "models/amckern/alien.mdl"
+"models/gonome.mdl" "models/amckern/newnpcs/alien_gonome.mdl"
+"models/bullsquid.mdl" "models/amckern/newnpcs/alien_bs.mdl"
+"models/headcrab.mdl" "models/amckern/newnpcs/facehugger.mdl"
+"models/baby_headcrab.mdl" "models/amckern/newnpcs/facehugger.mdl"
+"models/big_mom.mdl" "models/amckern/newnpcs/alien_q.mdl"
+"models/garg.mdl" "models/amckern/newnpcs/alien_praetorian.mdl"

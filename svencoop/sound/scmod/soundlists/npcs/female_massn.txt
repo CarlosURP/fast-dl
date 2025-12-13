@@ -1,0 +1,17 @@
+"hgrunt/gr_pain1.wav"" "scmod/npcs/female_massn/gr_pain1.ogg"
+"hgrunt/gr_pain2.wav"" "scmod/npcs/female_massn/gr_pain2.ogg"
+"hgrunt/gr_pain3.wav"" "scmod/npcs/female_massn/gr_pain3.ogg"
+"hgrunt/gr_pain4.wav"" "scmod/npcs/female_massn/gr_pain4.ogg"
+"hgrunt/gr_pain5.wav"" "scmod/npcs/female_massn/gr_pain5.ogg"
+
+"hgrunt/gr_die1.wav"" "scmod/npcs/female_massn/gr_die1.ogg"
+"hgrunt/gr_die2.wav"" "scmod/npcs/female_massn/gr_die2.ogg"
+"hgrunt/gr_die3.wav"" "scmod/npcs/female_massn/gr_die3.ogg"
+
+"ops/of2a5_bo01.wav" "scmod/npcs/female_massn/of2a5_bo01.ogg"
+"ops/of2a5_bo02.wav" "scmod/npcs/female_massn/of2a5_bo02.ogg"
+"ops/of2a5_bo03.wav" "scmod/npcs/female_massn/of2a5_bo03.ogg"
+
+"ops/of6a2_bo01.wav" "scmod/npcs/female_massn/of6a2_bo01.ogg"
+"ops/of6a2_bo01.wav" "scmod/npcs/female_massn/of6a2_bo02.ogg"
+"ops/of6a2_bo01.wav" "scmod/npcs/female_massn/of6a2_bo03.ogg"
