@@ -1,0 +1,13 @@
+maps/escape_series_2e.cfg
+maps/escape_series_2e.res
+maps/escape_series_2e_motd.txt
+maps/escape_series_2e_skl.cfg
+models/escape/garg.mdl
+models/escape/gargT.mdl
+models/escape/p_crowbar.mdl
+models/escape/v_crowbar.mdl
+models/escape/w_crowbar.mdl
+sound/escape_series/credits.mp3
+sound/escape_series/escape2_escape_route.mp3
+sound/escape_series/escape2_take_off.wav
+sound/escape_series/escape3/boss.wav
