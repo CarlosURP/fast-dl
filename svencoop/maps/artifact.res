@@ -1,0 +1,27 @@
+gfx/env/kamijungle envmap readme.txt
+gfx/env/kamijungleBK.bmp
+gfx/env/kamijungleDN.bmp
+gfx/env/kamijungleFT.bmp
+gfx/env/kamijungleLF.bmp
+gfx/env/kamijungleRT.bmp
+gfx/env/kamijungleUP.bmp
+maps/artifact.cfg
+maps/artifact_motd.txt
+models/artifact/baboon2.mdl
+models/artifact/key1.mdl
+models/artifact/key2.mdl
+models/artifact/key3.mdl
+models/artifact/key3a.mdl
+models/artifact/sunsceptre.mdl
+sound/artifact/artifactvoxfull2.ogg
+sound/artifact/cave_ambience.ogg
+sound/artifact/endwav1.ogg
+sound/artifact/heli1.ogg
+sound/artifact/jungle_ambience.ogg
+sound/artifact/jungle_drums.ogg
+sound/artifact/jungle_river.ogg
+sound/artifact/ruins_pipes.ogg
+sound/artifact/stone_rumble.ogg
+sprites/adamr/pointers/pointer-shortcut.spr
+sprites/artifact/artifactspr1.spr
+sprites/artifact/artifactspr2.spr

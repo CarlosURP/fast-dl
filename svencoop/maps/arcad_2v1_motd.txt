@@ -1,0 +1,50 @@
+#======================
+#     A R C A D 2 
+#     [Version 1] 
+#    By:  Streamfox    
+#======================
+
+3 players are required to start and complete the map!
+
+--Plot
+Research scientists from SX-3 reported, that nearby SX-6 
+spacestation infected by unknow alien organisation. 
+Scientists decetced the burried SX-7 underground facitily on nearby planet.
+Inside the facitily there's a working experimental lasercannon which should
+have enough power to blow up the infected spacestation.
+They sent a special Co-op team to activate the laser cannon, and destroy 
+the infected spacestation.
+
+--Betatest:
+CryoKeen
+LemonSoda
+Moaby
+RNG 
+Sence
+
+Additional credits:
+
+*RNG*
+-Small and big laser cannons.
+-Arcad2.wav
+-Arcad2b.ogg
+-r_concussion.wav
+
+*Gluem*
+-sventro.mp3 (Original Sven Co-op 3.0 menu theme) 
+ 
+*Myp3uk (http://www.fpsbanana.com/textures/2897)*
+-Skybox
+
+Hint:
+Most of the computer keyboard are usable. 
+In most cases you have to push 2 keyboards at the same time to hack computers.
+
+Few computers needs other method to hack them. Like press and hold down keyboard, or pressing
+keyboards rapidly. Porgress bars will shown up during the hacking.
+
+Known issues:
+Some texture rendered brushes randomly become opaque, mostly glass doors. 
+This isn't affect gameplay, just kinda annyoing.
+
+Intro sequence might be bugged during game, like the tunnel get overlapped and getting have gaps.

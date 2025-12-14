@@ -1,0 +1,17 @@
+Arena Retrowave
+
+Author
+    Map:Dr.Abc
+    Scripts:Paranoia_AF
+    Music:Rain Sword
+    
+
+Date
+    08/08/2018
+
+Filename
+    arena_retrowave.bsp
+
+Mission
+    kill all new enemies.
+
